@@ -7,3 +7,12 @@ D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\ob
 D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.AssemblyInfo.cs
 D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.dll
 D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.pdb
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\bin\Debug\netstandard2.0\DivisiblePairsServices.deps.json
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\bin\Debug\netstandard2.0\DivisiblePairsServices.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\bin\Debug\netstandard2.0\DivisiblePairsServices.pdb
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.csprojAssemblyReference.cache
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.csproj.CoreCompileInputs.cache
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.AssemblyInfoInputs.cache
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.AssemblyInfo.cs
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.pdb

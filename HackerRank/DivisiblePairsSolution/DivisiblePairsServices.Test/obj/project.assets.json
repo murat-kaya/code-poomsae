@@ -5823,11 +5823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WORKSHOP\\CodeKata\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices.Test\\DivisiblePairsServices.Test.csproj",
+      "projectUniqueName": "d:\\WORKSHOP\\CodeKata\\poomsae\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices.Test\\DivisiblePairsServices.Test.csproj",
       "projectName": "DivisiblePairsServices.Test",
-      "projectPath": "D:\\WORKSHOP\\CodeKata\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices.Test\\DivisiblePairsServices.Test.csproj",
+      "projectPath": "d:\\WORKSHOP\\CodeKata\\poomsae\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices.Test\\DivisiblePairsServices.Test.csproj",
       "packagesPath": "C:\\Users\\mkaya\\.nuget\\packages\\",
-      "outputPath": "D:\\WORKSHOP\\CodeKata\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices.Test\\obj\\",
+      "outputPath": "d:\\WORKSHOP\\CodeKata\\poomsae\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5846,8 +5846,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\WORKSHOP\\CodeKata\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices\\DivisiblePairsServices.csproj": {
-              "projectPath": "D:\\WORKSHOP\\CodeKata\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices\\DivisiblePairsServices.csproj"
+            "d:\\WORKSHOP\\CodeKata\\poomsae\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices\\DivisiblePairsServices.csproj": {
+              "projectPath": "d:\\WORKSHOP\\CodeKata\\poomsae\\HackerRank\\DivisiblePairsSolution\\DivisiblePairsServices\\DivisiblePairsServices.csproj"
             }
           }
         }
