@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\bin\Debug\netstandard2.0\DivisiblePairsServices.deps.json
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\bin\Debug\netstandard2.0\DivisiblePairsServices.dll
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\bin\Debug\netstandard2.0\DivisiblePairsServices.pdb
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.dll
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices\obj\Debug\netstandard2.0\DivisiblePairsServices.pdb

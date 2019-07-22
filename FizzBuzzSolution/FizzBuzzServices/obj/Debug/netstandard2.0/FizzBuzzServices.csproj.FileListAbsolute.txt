@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices\bin\Debug\netstandard2.0\FizzBuzzServices.deps.json
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices\bin\Debug\netstandard2.0\FizzBuzzServices.dll
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices\bin\Debug\netstandard2.0\FizzBuzzServices.pdb
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices\obj\Debug\netstandard2.0\FizzBuzzServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices\obj\Debug\netstandard2.0\FizzBuzzServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices\obj\Debug\netstandard2.0\FizzBuzzServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices\obj\Debug\netstandard2.0\FizzBuzzServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices\obj\Debug\netstandard2.0\FizzBuzzServices.dll
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices\obj\Debug\netstandard2.0\FizzBuzzServices.pdb

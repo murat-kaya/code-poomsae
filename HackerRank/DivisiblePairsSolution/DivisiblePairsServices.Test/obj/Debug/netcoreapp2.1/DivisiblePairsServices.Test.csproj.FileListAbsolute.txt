@@ -1,0 +1,17 @@
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\DivisiblePairsServices.Test.deps.json
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\DivisiblePairsServices.Test.runtimeconfig.json
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\DivisiblePairsServices.Test.runtimeconfig.dev.json
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\DivisiblePairsServices.Test.dll
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\DivisiblePairsServices.Test.pdb
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\DivisiblePairsServices.dll
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\bin\Debug\netcoreapp2.1\DivisiblePairsServices.pdb
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\obj\Debug\netcoreapp2.1\DivisiblePairsServices.Test.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\obj\Debug\netcoreapp2.1\DivisiblePairsServices.Test.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\obj\Debug\netcoreapp2.1\DivisiblePairsServices.Test.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\obj\Debug\netcoreapp2.1\DivisiblePairsServices.Test.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\obj\Debug\netcoreapp2.1\DivisiblePairsServices.Test.csproj.CopyComplete
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\obj\Debug\netcoreapp2.1\DivisiblePairsServices.Test.dll
+D:\WORKSHOP\CodeKata\HackerRank\DivisiblePairsSolution\DivisiblePairsServices.Test\obj\Debug\netcoreapp2.1\DivisiblePairsServices.Test.pdb

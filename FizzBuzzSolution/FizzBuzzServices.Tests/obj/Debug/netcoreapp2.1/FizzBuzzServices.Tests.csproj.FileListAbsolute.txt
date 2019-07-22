@@ -1,0 +1,17 @@
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\FizzBuzzServices.Tests.deps.json
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\FizzBuzzServices.Tests.runtimeconfig.json
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\FizzBuzzServices.Tests.runtimeconfig.dev.json
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\FizzBuzzServices.Tests.dll
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\FizzBuzzServices.Tests.pdb
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\FizzBuzzServices.dll
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\bin\Debug\netcoreapp2.1\FizzBuzzServices.pdb
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\obj\Debug\netcoreapp2.1\FizzBuzzServices.Tests.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\obj\Debug\netcoreapp2.1\FizzBuzzServices.Tests.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\obj\Debug\netcoreapp2.1\FizzBuzzServices.Tests.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\obj\Debug\netcoreapp2.1\FizzBuzzServices.Tests.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\obj\Debug\netcoreapp2.1\FizzBuzzServices.Tests.csproj.CopyComplete
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\obj\Debug\netcoreapp2.1\FizzBuzzServices.Tests.dll
+D:\WORKSHOP\CodeKata\HackerRank\FizzBuzzSolution\FizzBuzzServices.Tests\obj\Debug\netcoreapp2.1\FizzBuzzServices.Tests.pdb
