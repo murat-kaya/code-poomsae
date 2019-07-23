@@ -1,0 +1,17 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.runtimeconfig.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.runtimeconfig.dev.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\MigratoryBirdsServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\bin\Debug\netcoreapp2.1\MigratoryBirdsServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\obj\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\obj\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\obj\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\obj\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\obj\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.csproj.CopyComplete
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\obj\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices.Tests\obj\Debug\netcoreapp2.1\MigratoryBirdsServices.Tests.pdb

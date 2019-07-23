@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices\bin\Debug\netstandard2.0\MigratoryBirdsServices.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices\bin\Debug\netstandard2.0\MigratoryBirdsServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices\bin\Debug\netstandard2.0\MigratoryBirdsServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices\obj\Debug\netstandard2.0\MigratoryBirdsServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices\obj\Debug\netstandard2.0\MigratoryBirdsServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices\obj\Debug\netstandard2.0\MigratoryBirdsServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices\obj\Debug\netstandard2.0\MigratoryBirdsServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices\obj\Debug\netstandard2.0\MigratoryBirdsServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\MigratoryBirds\MigratoryBirdsServices\obj\Debug\netstandard2.0\MigratoryBirdsServices.pdb
