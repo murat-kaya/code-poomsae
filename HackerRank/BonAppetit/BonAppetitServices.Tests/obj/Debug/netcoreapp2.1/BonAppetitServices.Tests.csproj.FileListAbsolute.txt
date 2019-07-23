@@ -1,0 +1,17 @@
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\BonAppetitServices.Tests.deps.json
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\BonAppetitServices.Tests.runtimeconfig.json
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\BonAppetitServices.Tests.runtimeconfig.dev.json
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\BonAppetitServices.Tests.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\BonAppetitServices.Tests.pdb
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\BonAppetitServices.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\bin\Debug\netcoreapp2.1\BonAppetitServices.pdb
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\obj\Debug\netcoreapp2.1\BonAppetitServices.Tests.csprojAssemblyReference.cache
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\obj\Debug\netcoreapp2.1\BonAppetitServices.Tests.csproj.CoreCompileInputs.cache
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\obj\Debug\netcoreapp2.1\BonAppetitServices.Tests.AssemblyInfoInputs.cache
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\obj\Debug\netcoreapp2.1\BonAppetitServices.Tests.AssemblyInfo.cs
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\obj\Debug\netcoreapp2.1\BonAppetitServices.Tests.csproj.CopyComplete
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\obj\Debug\netcoreapp2.1\BonAppetitServices.Tests.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices.Tests\obj\Debug\netcoreapp2.1\BonAppetitServices.Tests.pdb

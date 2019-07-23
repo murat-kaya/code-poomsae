@@ -1,0 +1,9 @@
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices\bin\Debug\netstandard2.0\BonAppetitServices.deps.json
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices\bin\Debug\netstandard2.0\BonAppetitServices.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices\bin\Debug\netstandard2.0\BonAppetitServices.pdb
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices\obj\Debug\netstandard2.0\BonAppetitServices.csprojAssemblyReference.cache
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices\obj\Debug\netstandard2.0\BonAppetitServices.csproj.CoreCompileInputs.cache
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices\obj\Debug\netstandard2.0\BonAppetitServices.AssemblyInfoInputs.cache
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices\obj\Debug\netstandard2.0\BonAppetitServices.AssemblyInfo.cs
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices\obj\Debug\netstandard2.0\BonAppetitServices.dll
+d:\WORKSHOP\CodeKata\poomsae\HackerRank\BonAppetit\BonAppetitServices\obj\Debug\netstandard2.0\BonAppetitServices.pdb
