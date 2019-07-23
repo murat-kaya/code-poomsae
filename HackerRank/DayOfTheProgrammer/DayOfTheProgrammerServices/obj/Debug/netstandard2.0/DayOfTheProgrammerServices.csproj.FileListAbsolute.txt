@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices\bin\Debug\netstandard2.0\DayOfTheProgrammerServices.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices\bin\Debug\netstandard2.0\DayOfTheProgrammerServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices\bin\Debug\netstandard2.0\DayOfTheProgrammerServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices\obj\Debug\netstandard2.0\DayOfTheProgrammerServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices\obj\Debug\netstandard2.0\DayOfTheProgrammerServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices\obj\Debug\netstandard2.0\DayOfTheProgrammerServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices\obj\Debug\netstandard2.0\DayOfTheProgrammerServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices\obj\Debug\netstandard2.0\DayOfTheProgrammerServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices\obj\Debug\netstandard2.0\DayOfTheProgrammerServices.pdb

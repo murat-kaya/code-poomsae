@@ -1,0 +1,17 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.runtimeconfig.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.runtimeconfig.dev.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\DayOfTheProgrammerServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\bin\Debug\netcoreapp2.1\DayOfTheProgrammerServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\obj\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\obj\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\obj\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\obj\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\obj\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.csproj.CopyComplete
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\obj\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DayOfTheProgrammer\DayOfTheProgrammerServices.Tests\obj\Debug\netcoreapp2.1\DayOfTheProgrammerServices.Tests.pdb
