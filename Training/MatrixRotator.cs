@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 
 namespace ArrayRotate {
     public class Program {
@@ -48,23 +49,26 @@ namespace ArrayRotate {
 
             for (int i = 0; i < layerCount; i++) {
 
-                int first = i;
-                int last = sizeX - first - 1;
+                int first = i;//0
+                int last = sizeX - first - 1;//2
 
                 for (int element = first; element< last;element++) {
                     
                     int offset = element - first;
 
 
-                    int top = matrix[first, element];
-                    int right = matrix[element,last];
-                    int bottom = matrix[last, last-offset];
-                    int left = matrix[last-offset, first];
+                    int top = matrix[first, element];       // 0,0 // 0,1 // 0,2 // 0,3 // 0,4
+                    matrix[element, last] = top;            // 0,4 // 1,4 // 2,4 // 3,4 // 4,4
+                    
+                    int right = matrix[element,last];       // 0,4 // 1,4 // 2,4 // 3,4 // 4,4
+                    matrix[last, last-offset] = right;      // 4,4 // 4,3 // 4,2 // 4,1 // 4,0
 
-                    matrix[first, element] = left;
-                    matrix[element, last] = top;
-                    matrix[last, last-offset] = right;
-                    matrix[last-offset, first] = bottom;
+                    int bottom = matrix[last, last-offset]; // 4,4 // 4,3 // 4,2 // 4,1 // 4,0
+                    matrix[last-offset, first] = bottom;    // 4,0 // 3,0 // 2,0 // 1,0 // 0,0
+
+                    int left = matrix[last-offset, first];  // 4,0 // 3,0 // 2,0 // 1,0 // 0,0
+                    matrix[first, element] = left;          // 0,0 // 0,1 // 0,2 // 0,3 // 0,4
+
                 }
             }
             return matrix;

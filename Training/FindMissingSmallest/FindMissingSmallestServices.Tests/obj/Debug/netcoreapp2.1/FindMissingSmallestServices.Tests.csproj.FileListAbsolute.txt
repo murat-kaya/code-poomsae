@@ -1,0 +1,17 @@
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.deps.json
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.runtimeconfig.json
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.runtimeconfig.dev.json
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.dll
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.pdb
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\FindMissingSmallestServices.dll
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\bin\Debug\netcoreapp2.1\FindMissingSmallestServices.pdb
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\obj\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\obj\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\obj\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\obj\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\obj\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.csproj.CopyComplete
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\obj\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.dll
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices.Tests\obj\Debug\netcoreapp2.1\FindMissingSmallestServices.Tests.pdb

@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices\bin\Debug\netstandard2.0\FindMissingSmallestServices.deps.json
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices\bin\Debug\netstandard2.0\FindMissingSmallestServices.dll
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices\bin\Debug\netstandard2.0\FindMissingSmallestServices.pdb
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices\obj\Debug\netstandard2.0\FindMissingSmallestServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices\obj\Debug\netstandard2.0\FindMissingSmallestServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices\obj\Debug\netstandard2.0\FindMissingSmallestServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices\obj\Debug\netstandard2.0\FindMissingSmallestServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices\obj\Debug\netstandard2.0\FindMissingSmallestServices.dll
+D:\WORKSHOP\CodeKata\trainings\FindMissingSmallest\FindMissingSmallestServices\obj\Debug\netstandard2.0\FindMissingSmallestServices.pdb

@@ -1,0 +1,17 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.runtimeconfig.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.runtimeconfig.dev.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\FormingMagicSquareServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\bin\Debug\netcoreapp2.1\FormingMagicSquareServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\obj\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\obj\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\obj\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\obj\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\obj\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.csproj.CopyComplete
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\obj\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices.Tests\obj\Debug\netcoreapp2.1\FormingMagicSquareServices.Tests.pdb

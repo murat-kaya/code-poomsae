@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices\bin\Debug\netstandard2.0\FormingMagicSquareServices.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices\bin\Debug\netstandard2.0\FormingMagicSquareServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices\bin\Debug\netstandard2.0\FormingMagicSquareServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices\obj\Debug\netstandard2.0\FormingMagicSquareServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices\obj\Debug\netstandard2.0\FormingMagicSquareServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices\obj\Debug\netstandard2.0\FormingMagicSquareServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices\obj\Debug\netstandard2.0\FormingMagicSquareServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices\obj\Debug\netstandard2.0\FormingMagicSquareServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\FormingMagicSquare\FormingMagicSquareServices\obj\Debug\netstandard2.0\FormingMagicSquareServices.pdb
