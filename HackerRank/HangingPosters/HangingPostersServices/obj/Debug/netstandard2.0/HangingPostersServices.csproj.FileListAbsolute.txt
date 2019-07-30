@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices\bin\Debug\netstandard2.0\HangingPostersServices.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices\bin\Debug\netstandard2.0\HangingPostersServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices\bin\Debug\netstandard2.0\HangingPostersServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices\obj\Debug\netstandard2.0\HangingPostersServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices\obj\Debug\netstandard2.0\HangingPostersServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices\obj\Debug\netstandard2.0\HangingPostersServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices\obj\Debug\netstandard2.0\HangingPostersServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices\obj\Debug\netstandard2.0\HangingPostersServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices\obj\Debug\netstandard2.0\HangingPostersServices.pdb

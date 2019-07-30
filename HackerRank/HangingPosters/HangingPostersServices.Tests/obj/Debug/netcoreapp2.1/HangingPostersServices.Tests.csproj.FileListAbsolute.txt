@@ -1,0 +1,17 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\HangingPostersServices.Tests.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\HangingPostersServices.Tests.runtimeconfig.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\HangingPostersServices.Tests.runtimeconfig.dev.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\HangingPostersServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\HangingPostersServices.Tests.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\HangingPostersServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\bin\Debug\netcoreapp2.1\HangingPostersServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\obj\Debug\netcoreapp2.1\HangingPostersServices.Tests.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\obj\Debug\netcoreapp2.1\HangingPostersServices.Tests.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\obj\Debug\netcoreapp2.1\HangingPostersServices.Tests.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\obj\Debug\netcoreapp2.1\HangingPostersServices.Tests.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\obj\Debug\netcoreapp2.1\HangingPostersServices.Tests.csproj.CopyComplete
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\obj\Debug\netcoreapp2.1\HangingPostersServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\HangingPosters\HangingPostersServices.Tests\obj\Debug\netcoreapp2.1\HangingPostersServices.Tests.pdb
