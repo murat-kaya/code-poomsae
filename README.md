@@ -1,4 +1,17 @@
-# code-poomsae
-Code Poomsae - Yet Another Synonym for Code Kata!
+# Code Poomsae 
+Yet Another Synonym for Code Kata!
 
-Solutions are coded in VSCode 1.36.1 with .net Core 2.0 Framework
+# HackerRank
+
+- Bon Appetit
+- Days of the Programmer
+- Divisible Sum Pairs Solution
+- Migratory Birds
+
+# Training
+- ChessBoard.cs	: Simple Chess Board with C#
+- DiagonalShape.cs :	Diagonal Shape with C#	
+- DrawMatrixOddEven.c	: Drawing Matrix Filling with Odd and Even Numbers	
+- FindMissingNumbersFromList.cs	: Find Missing Numbers From List
+- MatrixRotator.cs	: Rotating AxA Matrix in C#	4
+- SumPrimes.cs	Sum of Prime Numbers with C#
