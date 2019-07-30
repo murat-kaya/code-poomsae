@@ -27,7 +27,7 @@ namespace FindMissingNumbersInList
 
                 List<int> missingList = new List<int>();
 
-                for (int i = 1; i < ordered.Max(); i++)
+                for (int i = 1; i < ordered.Max()+1; i++)
                 {
                     if(!arr.Contains(i))
                     {
@@ -46,4 +46,4 @@ namespace FindMissingNumbersInList
  1, 4, 6, 8, 12, 21 
  
 **output**
-2, 3, 5, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19
+2, 3, 5, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19,20
