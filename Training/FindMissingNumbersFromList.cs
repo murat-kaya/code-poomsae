@@ -27,7 +27,7 @@ namespace FindMissingNumbersInList
 
                 List<int> missingList = new List<int>();
 
-                for (int i = 1; i < ordered.Max() - 1; i++)
+                for (int i = 1; i < ordered.Max(); i++)
                 {
                     if(!arr.Contains(i))
                     {
