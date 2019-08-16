@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices\bin\Debug\netstandard2.0\SockMerchantServices.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices\bin\Debug\netstandard2.0\SockMerchantServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices\bin\Debug\netstandard2.0\SockMerchantServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices\obj\Debug\netstandard2.0\SockMerchantServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices\obj\Debug\netstandard2.0\SockMerchantServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices\obj\Debug\netstandard2.0\SockMerchantServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices\obj\Debug\netstandard2.0\SockMerchantServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices\obj\Debug\netstandard2.0\SockMerchantServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices\obj\Debug\netstandard2.0\SockMerchantServices.pdb

@@ -1,0 +1,17 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\SockMerchantServices.Tests.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\SockMerchantServices.Tests.runtimeconfig.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\SockMerchantServices.Tests.runtimeconfig.dev.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\SockMerchantServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\SockMerchantServices.Tests.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\SockMerchantServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\bin\Debug\netcoreapp2.1\SockMerchantServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\obj\Debug\netcoreapp2.1\SockMerchantServices.Tests.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\obj\Debug\netcoreapp2.1\SockMerchantServices.Tests.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\obj\Debug\netcoreapp2.1\SockMerchantServices.Tests.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\obj\Debug\netcoreapp2.1\SockMerchantServices.Tests.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\obj\Debug\netcoreapp2.1\SockMerchantServices.Tests.csproj.CopyComplete
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\obj\Debug\netcoreapp2.1\SockMerchantServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SockMerchant\SockMerchantServices.Tests\obj\Debug\netcoreapp2.1\SockMerchantServices.Tests.pdb

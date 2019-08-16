@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SaveTheQueen\SaveTheQueenServices\bin\Debug\netstandard2.0\SaveTheQueenServices.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SaveTheQueen\SaveTheQueenServices\bin\Debug\netstandard2.0\SaveTheQueenServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SaveTheQueen\SaveTheQueenServices\bin\Debug\netstandard2.0\SaveTheQueenServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SaveTheQueen\SaveTheQueenServices\obj\Debug\netstandard2.0\SaveTheQueenServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SaveTheQueen\SaveTheQueenServices\obj\Debug\netstandard2.0\SaveTheQueenServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SaveTheQueen\SaveTheQueenServices\obj\Debug\netstandard2.0\SaveTheQueenServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SaveTheQueen\SaveTheQueenServices\obj\Debug\netstandard2.0\SaveTheQueenServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SaveTheQueen\SaveTheQueenServices\obj\Debug\netstandard2.0\SaveTheQueenServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\SaveTheQueen\SaveTheQueenServices\obj\Debug\netstandard2.0\SaveTheQueenServices.pdb
