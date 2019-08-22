@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\CountingValleys\CountingValleysServices\bin\Debug\netstandard2.0\CountingValleysServices.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\CountingValleys\CountingValleysServices\bin\Debug\netstandard2.0\CountingValleysServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\CountingValleys\CountingValleysServices\bin\Debug\netstandard2.0\CountingValleysServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\CountingValleys\CountingValleysServices\obj\Debug\netstandard2.0\CountingValleysServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\CountingValleys\CountingValleysServices\obj\Debug\netstandard2.0\CountingValleysServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\CountingValleys\CountingValleysServices\obj\Debug\netstandard2.0\CountingValleysServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\CountingValleys\CountingValleysServices\obj\Debug\netstandard2.0\CountingValleysServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\CountingValleys\CountingValleysServices\obj\Debug\netstandard2.0\CountingValleysServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\CountingValleys\CountingValleysServices\obj\Debug\netstandard2.0\CountingValleysServices.pdb
