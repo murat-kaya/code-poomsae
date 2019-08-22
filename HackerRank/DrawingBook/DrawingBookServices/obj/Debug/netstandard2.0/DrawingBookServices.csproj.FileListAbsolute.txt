@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DrawingBook\DrawingBookServices\bin\Debug\netstandard2.0\DrawingBookServices.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DrawingBook\DrawingBookServices\bin\Debug\netstandard2.0\DrawingBookServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DrawingBook\DrawingBookServices\bin\Debug\netstandard2.0\DrawingBookServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DrawingBook\DrawingBookServices\obj\Debug\netstandard2.0\DrawingBookServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DrawingBook\DrawingBookServices\obj\Debug\netstandard2.0\DrawingBookServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DrawingBook\DrawingBookServices\obj\Debug\netstandard2.0\DrawingBookServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DrawingBook\DrawingBookServices\obj\Debug\netstandard2.0\DrawingBookServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DrawingBook\DrawingBookServices\obj\Debug\netstandard2.0\DrawingBookServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\DrawingBook\DrawingBookServices\obj\Debug\netstandard2.0\DrawingBookServices.pdb
