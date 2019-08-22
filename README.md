@@ -4,9 +4,15 @@ Yet Another Synonym for Code Kata!
 # HackerRank
 
 - Bon Appetit
-- Days of the Programmer
+- Counting Valleys
+- Days Of The Programmer
 - Divisible Sum Pairs Solution
+- Drawing Book
+- Forming Magic Square
+- Hanging Posters
 - Migratory Birds
+- Save The Queen
+- Sock Merchant
 
 # Training
 - ChessBoard.cs	: Simple Chess Board with C#
