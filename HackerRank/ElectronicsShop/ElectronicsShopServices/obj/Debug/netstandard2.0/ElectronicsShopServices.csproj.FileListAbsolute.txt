@@ -1,0 +1,9 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices\bin\Debug\netstandard2.0\ElectronicsShopServices.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices\bin\Debug\netstandard2.0\ElectronicsShopServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices\bin\Debug\netstandard2.0\ElectronicsShopServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices\obj\Debug\netstandard2.0\ElectronicsShopServices.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices\obj\Debug\netstandard2.0\ElectronicsShopServices.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices\obj\Debug\netstandard2.0\ElectronicsShopServices.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices\obj\Debug\netstandard2.0\ElectronicsShopServices.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices\obj\Debug\netstandard2.0\ElectronicsShopServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices\obj\Debug\netstandard2.0\ElectronicsShopServices.pdb

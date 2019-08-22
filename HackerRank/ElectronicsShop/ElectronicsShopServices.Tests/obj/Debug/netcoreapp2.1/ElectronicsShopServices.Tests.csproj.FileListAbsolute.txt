@@ -1,0 +1,17 @@
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.deps.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.runtimeconfig.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.runtimeconfig.dev.json
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\ElectronicsShopServices.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\bin\Debug\netcoreapp2.1\ElectronicsShopServices.pdb
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\obj\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.csprojAssemblyReference.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\obj\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.csproj.CoreCompileInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\obj\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.AssemblyInfoInputs.cache
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\obj\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.AssemblyInfo.cs
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\obj\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.csproj.CopyComplete
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\obj\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.dll
+D:\WORKSHOP\CodeKata\poomsae\HackerRank\ElectronicsShop\ElectronicsShopServices.Tests\obj\Debug\netcoreapp2.1\ElectronicsShopServices.Tests.pdb
