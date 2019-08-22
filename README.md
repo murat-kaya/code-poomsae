@@ -8,6 +8,7 @@ Yet Another Synonym for Code Kata!
 - Days Of The Programmer
 - Divisible Sum Pairs Solution
 - Drawing Book
+- Electronics Shop
 - Forming Magic Square
 - Hanging Posters
 - Migratory Birds
