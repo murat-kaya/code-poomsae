@@ -22,3 +22,4 @@ Yet Another Synonym for Code Kata!
 - FindMissingNumbersFromList.cs	: Find Missing Numbers From List
 - MatrixRotator.cs	: Rotating AxA Matrix in C#	4
 - SumPrimes.cs	Sum of Prime Numbers with C#
+- Rotating-matrix-algebra.py Rotating nxn Matrices with Algebra Vector Style and Python
